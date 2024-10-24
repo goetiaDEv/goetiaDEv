@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ezequiel and I'm a Brazilian</h2>
+<h2 align="left">Hi 👋! My name is Ezequiel and I'm a Customer service and education professional with 6 years of experience in sales. Currently pursuing a degree in Economics at Estácio de Sá and studying for CPA-20 and CEA certifications. Skilled in Python, SQL, and databases, and continuously expanding my programming knowledge. Focused on analytical solutions and customer-oriented outcomes.n</h2>
 
 ###
 
