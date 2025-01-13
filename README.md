@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goetiaDEv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Technology used
+### Technologies I use
 <div style=" display: inline_block">
 <img align="center" alt="Js" style="margin:2px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img align="center" alt="html5" style="margin:2px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
