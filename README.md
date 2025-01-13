@@ -1,10 +1,11 @@
 ### Hey I'm GoetiaDEv 😄
-
+<div
 [![Site](https://img.shields.io/website?label=Site:Lov2pets.com&style=for-the-badge&url=https://kauemattos.github.io/LOV2PETS/)](https://kauemattos.github.io/LOV2PETS/)
 
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-abreu-/)
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5524998237927?text=FalaDev!)
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=goetiaDEv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
