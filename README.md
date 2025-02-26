@@ -1,7 +1,5 @@
 ### Hey I'm GoetiaDEv 😄
 
-[![Site](https://img.shields.io/website?label=Site:Lov2pets.com&style=for-the-badge&url=https://kauemattos.github.io/LOV2PETS/)](https://kauemattos.github.io/LOV2PETS/)
-
 <div
   
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-abreu-/)
