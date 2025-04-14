@@ -35,9 +35,9 @@ I'm a system analyst and developer with a passion for understanding the intricat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KnucklesB&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=goetiaDEv&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnucklesB&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goetiaDEv&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
 
