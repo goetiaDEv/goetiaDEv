@@ -15,7 +15,7 @@ I'm a system analyst and developer with a passion for understanding the intricat
 <div align="center">
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,php,sql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,php,docker,grafana,html,css,js,node.js)](https://skillicons.dev)
 
 </div>
 
