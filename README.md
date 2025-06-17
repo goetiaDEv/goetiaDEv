@@ -21,7 +21,7 @@ I'm a system analyst and developer with a passion for understanding the intricat
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 </div>
 
