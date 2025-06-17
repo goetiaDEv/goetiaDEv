@@ -18,17 +18,28 @@ My curiosity drives me beyond the code — from understanding network packets to
 
 ## 🛠️ Tech Stack
 
-### 💻 Development
-- Java | Python | C/C++ | PHP | JavaScript | Node.js | HTML/CSS
+<div align="center">
 
-### ☁️ Cloud & Infrastructure
-- Docker | AWS | Azure (Basics) | Linux | Windows Server | Networking Fundamentals
+### 💻 Development  
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,php,js,nodejs,html,css)](https://skillicons.dev)
 
-### 📊 Monitoring & Observability
-- Grafana | Zabbix | Prometheus | Elastic Stack | SIEM Tools
+### ☁️ Cloud & Infrastructure  
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,powershell,bash)](https://skillicons.dev)
 
-### 🛡️ Cybersecurity & Blue Team
-- Threat Detection | Incident Response | Packet Analysis | Reverse Engineering (Assembly) | Vulnerability Management
+### 📊 Monitoring & Observability  
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zabbix-DC2A2A?style=for-the-badge&logo=zabbix&logoColor=white"/>
+
+### 🛡️ Cybersecurity & Blue Team  
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Nmap-214C5E?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=protonmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=gear&logoColor=white"/>
+
+</div>
+
 
 ---
 
