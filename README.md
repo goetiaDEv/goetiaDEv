@@ -21,22 +21,30 @@ My curiosity drives me beyond the code — from understanding network packets to
 <div align="center">
 
 ### 💻 Development  
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,php,js,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,php,js,nodejs,html,css&theme=dark)](https://skillicons.dev)
+
+---
 
 ### ☁️ Cloud & Infrastructure  
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,powershell,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,powershell,bash&theme=dark)](https://skillicons.dev)
+
+---
 
 ### 📊 Monitoring & Observability  
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zabbix-DC2A2A?style=for-the-badge&logo=zabbix&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="50" />  
+<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="50" />  
+<img src="https://skillicons.dev/icons?i=elastic&theme=dark" height="50" />  
+<img src="https://skillicons.dev/icons?i=zabbix&theme=dark" height="50" />  
+
+---
 
 ### 🛡️ Cybersecurity & Blue Team  
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Nmap-214C5E?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=protonmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=gear&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=wireshark&theme=dark" height="50" />  
+<img src="https://skillicons.dev/icons?i=nmap&theme=dark" height="50" />  
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="50" />  
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" height="50" />  
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" height="50" />  
+<br>🔧 Assembly | Reverse Engineering (No icon yet — pure skills 😎)
 
 </div>
 
