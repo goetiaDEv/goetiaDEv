@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=System+Analyst+%7C+Developer+%7C+SOC+%2F+NOC+Specialist;Cybersecurity+%7C+Cloud+%7C+Monitoring+%7C+Automation;Curiosity-Driven+%7C+Lifelong+Learner+%F0%9F%92%AA" alt="Typing SVG" />
+
+</div>
+
+
 # 🚀 Welcome to My Digital Playground 💻🌐
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=System+Analyst+%26+Developer;SOC+%2F+NOC+Specialist;Cybersecurity+Enthusiast;Lifelong+Learner+%F0%9F%92%AA)](https://git.io/typing-svg)
@@ -21,32 +26,25 @@ My curiosity drives me beyond the code — from understanding network packets to
 <div align="center">
 
 ### 💻 Development  
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,php,js,nodejs,html,css&theme=dark)](https://skillicons.dev)
-
----
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,php,js,nodejs,html,css)](https://skillicons.dev)
 
 ### ☁️ Cloud & Infrastructure  
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,powershell,bash&theme=dark)](https://skillicons.dev)
-
----
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,powershell,bash)](https://skillicons.dev)
 
 ### 📊 Monitoring & Observability  
-<img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="50" />  
-<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="50" />  
-<img src="https://skillicons.dev/icons?i=elastic&theme=dark" height="50" />  
-<img src="https://skillicons.dev/icons?i=zabbix&theme=dark" height="50" />  
-
----
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zabbix-DC2A2A?style=for-the-badge&logo=zabbix&logoColor=white"/>
 
 ### 🛡️ Cybersecurity & Blue Team  
-<img src="https://skillicons.dev/icons?i=wireshark&theme=dark" height="50" />  
-<img src="https://skillicons.dev/icons?i=nmap&theme=dark" height="50" />  
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="50" />  
-<img src="https://skillicons.dev/icons?i=windows&theme=dark" height="50" />  
-<img src="https://skillicons.dev/icons?i=bash&theme=dark" height="50" />  
-<br>🔧 Assembly | Reverse Engineering (No icon yet — pure skills 😎)
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Nmap-214C5E?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=protonmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=gear&logoColor=white"/>
 
 </div>
+
 
 
 ---
