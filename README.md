@@ -2,7 +2,7 @@
 
 # <span style="font-size: 2em;">Welcome to My Digital Playground! 🎮💻</span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=System+Analysis+%26+Development;SOC+and+NOC+Specialist;Always%2BCurious%2C%2BAlways%2BLearning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=System+Analysis+%26+Development;SOC+and+NOC+Specialist;Always+Curious%2C+Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
