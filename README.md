@@ -4,6 +4,7 @@
 
 </div>
 
+<div align="center">
 
 # 🚀 Welcome to My Digital Playground 💻🌐
 
