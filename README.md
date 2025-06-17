@@ -1,31 +1,47 @@
 <div align="center">
 
-# <span style="font-size: 2em;">Welcome to My Digital Playground! 🎮💻</span>
+# 🚀 Welcome to My Digital Playground 💻🌐
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=System+Analysis+%26+Development;SOC+and+NOC+Specialist;Always+Curious%2C+Always+Learning)](https://git.io/typing-svg)
-
-</div>
-
-## 🕵️‍♂️ Who Am I?
-
-I'm a system analyst and developer with a passion for understanding the intricate workings of software. My curiosity drives me to explore not just how things work, but why they work the way they do. From crafting efficient code to reverse engineering challenges, I'm always up for a good puzzle.
-
-## 🛠️ My Tech Arsenal
-
-<div align="center">
-
-
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,php,docker,grafana,html,css,js,node.js)](https://skillicons.dev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=System+Analyst+%26+Developer;SOC+%2F+NOC+Specialist;Cybersecurity+Enthusiast;Lifelong+Learner+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+## 🕵️‍♂️ About Me
+
+I’m a **System Analyst and Developer**, currently working as a **SOC/NOC Specialist**, passionate about **cybersecurity**, **infrastructure monitoring**, and **software engineering**.
+
+My curiosity drives me beyond the code — from understanding network packets to dissecting binaries. I love challenges that involve **problem-solving, automation, and securing systems.**  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Development
+- Java | Python | C/C++ | PHP | JavaScript | Node.js | HTML/CSS
+
+### ☁️ Cloud & Infrastructure
+- Docker | AWS | Azure (Basics) | Linux | Windows Server | Networking Fundamentals
+
+### 📊 Monitoring & Observability
+- Grafana | Zabbix | Prometheus | Elastic Stack | SIEM Tools
+
+### 🛡️ Cybersecurity & Blue Team
+- Threat Detection | Incident Response | Packet Analysis | Reverse Engineering (Assembly) | Vulnerability Management
+
+---
 
 ## 🎯 Current Focus
 
-- 🔍 Diving deep into Assembly language
-- 🕹️ Creating game cheats (for educational purposes, of course!)
-- 🧩 Solving crack-me challenges to sharpen my skills
+- 🏹 Mastering **SOC operations** and **Incident Response**
+- 🔧 Enhancing skills in **Cloud Monitoring & Automation**
+- 🔐 Diving deeper into **Reverse Engineering** and **Malware Analysis**
+- 🤖 Building tools/scripts to automate repetitive tasks in NOC/SOC
 
-## 📊 GitHub Stats
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -35,27 +51,36 @@ I'm a system analyst and developer with a passion for understanding the intricat
 
 </div>
 
-## 🌍 Language / Idioma
+---
+
+## 🌍 Languages / Idiomas
 
 <details>
 <summary>English</summary>
 <br>
-I'm a system analyst and developer with a knack for unraveling complex software mysteries. My toolkit includes C, C++, C#, Java, and web technologies. Currently, I'm exploring the fascinating world of Assembly while honing my skills through game cheat development and crack-me challenges.
+I am a System Analyst and Developer working as a SOC/NOC Specialist, passionate about cybersecurity, infrastructure, and software development. I explore topics like incident response, reverse engineering, cloud monitoring, and automation.
 </details>
 
 <details>
 <summary>Português</summary>
 <br>
-Sou um analista e desenvolvedor de sistemas com talento para desvendar mistérios complexos de software. Meu conjunto de ferramentas inclui C, C++, C#, Java e tecnologias web. Atualmente, estou explorando o fascinante mundo do Assembly enquanto aprimoro minhas habilidades através do desenvolvimento de cheats para jogos e desafios de crack-me.
+Sou Analista e Desenvolvedor de Sistemas atuando como Especialista em SOC/NOC, apaixonado por cibersegurança, infraestrutura e desenvolvimento de software. Estudo temas como resposta a incidentes, engenharia reversa, monitoramento em nuvem e automação de processos.
 </details>
 
-<div align="center">
+---
 
-## Visitor Count
+## 🌐 Visitor Count
+
+<div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/KnucklesB/count.svg)
 
 </div>
+
+---
+
 <div align="center">
-"The code is dark and full of terrors, but we shall debug it!" 💡🐛
+
+⚙️ “The code is dark and full of terrors... But we shall debug it.” 💡🐛
+
 </div>
