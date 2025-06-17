@@ -15,11 +15,6 @@ I’m a **System Analyst and Developer**, currently working as a **SOC/NOC Speci
 
 My curiosity drives me beyond the code — from understanding network packets to dissecting binaries. I love challenges that involve **problem-solving, automation, and securing systems.**  
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=System+Analyst+%7C+Developer+%7C+SOC+%2F+NOC+Specialist;Cybersecurity+%7C+Cloud+%7C+Monitoring+%7C+Automation;Curiosity-Driven+%7C+Lifelong+Learner+%F0%9F%92%AA" alt="Typing SVG" />
-
-</div>
 ---
 
 ## 🛠️ Tech Stack
