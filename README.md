@@ -86,7 +86,7 @@ Sou Analista e Desenvolvedor de Sistemas atuando como Especialista em SOC/NOC, a
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/KnucklesB/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/goetiaDEv/count.svg)
 
 </div>
 
