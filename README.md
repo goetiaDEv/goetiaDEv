@@ -60,6 +60,8 @@ My curiosity drives me beyond the code — from understanding network packets to
 
 <img src="https://github-readme-stats.vercel.app/api?username=goetiaDEv&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
+![GoetiaDEv's Stats](https://github-readme-stats.vercel.app/api?username=GoetiaDEv&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goetiaDEv&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
