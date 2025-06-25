@@ -60,8 +60,6 @@ My curiosity drives me beyond the code — from understanding network packets to
 
 ![GoetiaDEv's Stats](https://github-readme-stats.vercel.app/api?username=GoetiaDEv&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
-![GoetiaDEv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GoetiaDEv&theme=vue-dark&hide_border=true)
-
 ![GoetiaDEv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoetiaDEv&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 
