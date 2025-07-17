@@ -22,7 +22,7 @@ My curiosity drives me beyond the code — from understanding network packets to
 <div align="center">
 
 ### 💻 Development  
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,php,js,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cs,php,js,nodejs,html,css)](https://skillicons.dev)
 
 ### ☁️ Cloud & Infrastructure  
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,powershell,bash)](https://skillicons.dev)
